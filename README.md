@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, React.js**
 
-- 👯 I’m looking to collaborate on **on Django projects**
+- 👯 I’m looking to collaborate on **Django projects**
 
 - 📫 How to reach me **hajbi662@gmail.com**
 
