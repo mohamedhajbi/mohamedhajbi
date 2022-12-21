@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Django projects**
 
-- 📫 How to reach me **hajbi662@gmail.com**
+- 📫 How to reach me **mohamed.hajbi.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
