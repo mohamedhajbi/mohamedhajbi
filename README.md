@@ -3,9 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhajbi&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhajbi" /> </p>
 
-- 🌱 I’m currently learning **Django, React.js**
 
-- 👯 I’m looking to collaborate on **Django projects**
 
 - 📫 How to reach me **mohamed.hajbi.dev@gmail.com**
 
